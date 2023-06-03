@@ -1,5 +1,4 @@
 
-
 **About me**
 
 - 🌱 I’m currently learning Software Engineering;
@@ -7,10 +6,11 @@
 - 💬 Ask me about the Univese...
 - ⚡ Fun fact: Bassplayer and Capoeirista...
 
-<div>
-  <a href="https://github.com/Jon-nas">
-    <img height="180cm" src="https://github-readme-stats.vercel.app/api?username=Jon-nas&show_icons=true&theme=outrun">
-    <img height="180cm" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jon-nas&layout=donut-vertical&repo=github-readme-stats&theme=outrun">
-  </a>
-</div>
+
+<a href="https://github.com/Jon-nas/github-readme-stats">
+  <img height="180cm" src="https://github-readme-stats.vercel.app/api?username=Jon-nas&show_icons=true&theme=outrun&repo=github-readme-stats" />
+</a>
+<a href="https://github.com/Jon-nas/convoychat">
+  <img height="180cm"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jon-nas&&layout=donut-vertical&repo=github-readme-stats&theme=outrun&repo=convoychat" />
+</a>
 
