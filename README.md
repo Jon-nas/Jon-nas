@@ -11,6 +11,6 @@
   <img height="180cm" src="https://github-readme-stats.vercel.app/api?username=Jon-nas&show_icons=true&theme=outrun&repo=github-readme-stats" />
 </a>
 <a href="https://github.com/Jon-nas/convoychat">
-  <img height="180cm"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jon-nas&&layout=donut-vertical&repo=github-readme-stats&theme=outrun&repo=convoychat" />
+  <img height="180cm" width="320cm"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jon-nas&layout=donut&repo=github-readme-stats&theme=outrun&repo=convoychat" />
 </a>
 
