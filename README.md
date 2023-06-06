@@ -26,7 +26,4 @@
   <img height=50px src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
   <img height=50px src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" />
   <img height=50px src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
-  
-  ![Snake animation](https://github.com/Jon-as/Jon-nas/blob/output/github-contribution-grid-snake.svg)
-  
 </div>
