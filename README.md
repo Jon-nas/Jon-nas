@@ -2,7 +2,6 @@
 **About me**
 
 - 🌱 I’m currently learning Software Engineering;
-- 🤔 I’m looking for help with all and nothing;
 - 💬 Ask me about the Univese...
 - ⚡ Fun fact: Bassplayer and Capoeirista...
 
