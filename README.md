@@ -2,8 +2,6 @@
 **About me**
 
 - 🌱 I’m currently learning Software Engineering;
-- 💬 Ask me about the Univese;
-- ⚡ Fun fact: Bassplayer and Capoeirista.
 
 ##
 
@@ -49,7 +47,3 @@
   <img src="https://img.shields.io/badge/-LinkedIn-020114?style=for-the-badge&amp;logo=linkedin&amp;logoColor=6ED2B6&amp;color:FFF" alt="LinkedIn">
 </a>
 
-##
-<div align="center">
-  <img src="https://profile-counter.glitch.me/jwnas/count.svg"/>
-</div>
