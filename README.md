@@ -27,10 +27,10 @@
  
 <div align="center">
   <a href="https://github.com/jwnas">
-    <img  height="180em" src="https://github-readme-stats.vercel.app/api?username=jwnas&show_icons=true&theme=outrun" />
+    <img  height="180em" src="https://github-readme-stats-six-seven.vercel.app/api?username=jwnas&show_icons=true&theme=outrun" />
   </a>
   <a href="https://github.com/jwnas">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jwnas&layout=donut&theme=outrun" />
+    <img height="180em" src="https://github-readme-stats-six-seven.vercel.app/api/top-langs/?username=jwnas&layout=donut&theme=outrun" />
   </a>
 </div>
 
